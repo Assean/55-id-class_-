@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "case_sensitive": false,
+    "notes": "Use this spec to check that each page (file) contains the listed ids/classes. Common nav/footer ids are repeated where applicable."
+  },
+  "Home.php": {
+    "ids": [
+      "logo",
+      "site-title",
+      "navbar",
+      "home",
+      "news",
+      "performance",
+      "tickets",
+      "carousel",
+      "event-info",
+      "share-info",
+      "fb",
+      "google",
+      "footer"
+    ],
+    "classes": [
+      "prev",
+      "next",
+      "image",
+      "title",
+      "description"
+    ]
+  },
+  "News.php": {
+    "ids": [
+      "logo",
+      "site-title",
+      "navbar",
+      "home",
+      "news",
+      "performance",
+      "tickets",
+      "map",
+      "map-info",
+      "map-info-image",
+      "map-info-text",
+      "share-info",
+      "fb",
+      "google",
+      "footer"
+    ],
+    "classes": [
+      "title"
+    ]
+  },
+  "Performance.php": {
+    "ids": [
+      "logo",
+      "site-title",
+      "navbar",
+      "home",
+      "news",
+      "performance",
+      "tickets",
+      "performance-information",
+      "portfolio",
+      "share-info",
+      "fb",
+      "google",
+      "footer"
+    ],
+    "classes": [
+      "description",
+      "toggle-btn"
+    ]
+  },
+  "Tickets.php": {
+    "ids": [
+      "logo",
+      "site-title",
+      "navbar",
+      "home",
+      "news",
+      "performance",
+      "tickets",
+      "name-input",
+      "phone-input",
+      "password-input",
+      "password-confirmation-input",
+      "ticket-type",
+      "amount-input",
+      "total-price",
+      "reset-capthca-button",
+      "reset-captcha",
+      "submit-button",
+      "reset-button",
+      "share-info",
+      "fb",
+      "google",
+      "footer"
+    ],
+    "classes": []
+  },
+  "Search.php": {
+    "ids": [
+      "logo",
+      "site-title",
+      "phone-input",
+      "password-input",
+      "captcha",
+      "reset-captcha",
+      "submit-button"
+    ],
+    "classes": [
+      "color-box"
+    ]
+  },
+  "Result.php": {
+    "ids": [
+      "logo",
+      "site-title",
+      "name-list",
+      "phone",
+      "amount-general-ticket",
+      "amount-vip-ticket",
+      "total-price",
+      "back-button",
+      "footer"
+    ],
+    "classes": [
+      "name"
+    ]
+  },
+  "AdminLogin.php": {
+    "ids": [
+      "username-input",
+      "password-input",
+      "submit-button"
+    ],
+    "classes": []
+  },
+  "AdminSetting.php": {
+    "ids": [
+      "site-title-input",
+      "logo-upload",
+      "footer-input",
+      "save-button"
+    ],
+    "classes": []
+  },
+  "AdminTickets.php": {
+    "ids": [
+      "tickets-table",
+      "tickets-delete-button",
+      "footer"
+    ],
+    "classes": []
+  },
+  "common": {
+    "ids": [
+      "logo",
+      "site-title",
+      "navbar",
+      "share-info",
+      "fb",
+      "google",
+      "footer"
+    ],
+    "classes": [
+      "title",
+      "description"
+    ],
+    "remarks": "Common IDs/classes repeated across pages for convenience."
+  }
+}
